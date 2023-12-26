@@ -4,11 +4,11 @@
 ###### Front-end with html, CSS;
 ###### Backend with .NET MVC6;
 ###### PostgreSQL Database;
-###### Admin and user authorition;
+###### Admin and user authoration;
 ###### Account registering;
 ###### Language support;
 ###### API;
-###### LINQ querry;
+###### LINQ query;
 ###### Bootstrap 5.1;
 #### Created by Fuad Garibli. All rights reserved. 2023-2024 T.C. Sakarya University
 
